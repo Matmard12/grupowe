@@ -1,0 +1,1 @@
+print('cos o sobie')
